@@ -1,0 +1,10 @@
+gym==0.26.2
+numpy
+matplotlib
+stable-baselines3[extra]==2.0.0
+torch
+streamlit
+plotly
+joblib
+pandas
+scikit-learn
